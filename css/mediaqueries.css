@@ -1,0 +1,23 @@
+/* Celular  Extra Small size display*/
+
+
+@media all and (max-width: 768px){
+
+
+
+/* Tablet  Small size display*/
+
+@media  all  and (min-width: 768px) and (max-width: 992px ){
+
+
+
+/* Laptop  Medium size display*/
+
+@media  all  and (min-width: 992px) and (max-width: 1200px ){
+
+
+
+/* Desktop  Large size display*/
+
+
+@media all and (min-width: 1200px){
