@@ -1,0 +1,35 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  background-color: #eeeeee; }
+
+.blackbox {
+  color: white;
+  background-color: black; }
+
+.txt--centrado {
+  text-align: center; }
+
+.imagen {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 100%; 
+    background-size: 100% 100%;
+}
+
+.resize {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 450px; 
+    background-size: 100% 100%;
+}
+
+
+.footer {
+  background-color: #F5F5F5;
+  color: #808080;
+  padding: 20px;
+  text-align: center; }
+  .footer .bloquefooter {
+    display: inline-block; }
