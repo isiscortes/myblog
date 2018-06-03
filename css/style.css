@@ -27,9 +27,36 @@ body {
 
 
 .footer {
-  background-color: #F5F5F5;
-  color: #808080;
   padding: 20px;
-  text-align: center; }
-  .footer .bloquefooter {
-    display: inline-block; }
+  text-align: left; }
+
+.botonblack{
+	color: black;
+	background-color: white;
+	padding: 1%;
+	text-align: center;
+}
+
+a{
+	padding: 2%;
+}
+
+i{
+	margin: auto;
+	display: block;
+}
+
+.pagination li{
+	height: 60px;
+}
+
+
+span.badge.new{
+	margin: 1%;
+}
+
+.btn, .btn-large, .btn-small {
+	background-color: black !important;
+	color: white !important;
+
+}
