@@ -60,3 +60,27 @@ span.badge.new{
 	color: white !important;
 
 }
+
+.tarjeta{
+  background-color: white;
+  box-shadow: 2px 2px 2px #888888 ;
+  padding-bottom: 2%;
+}
+
+.padding{
+  padding: 1%;
+}
+
+.gris{
+  color: #bdbdbd;
+  font-size: 1.125em;
+}
+
+.subtitulo{
+  font-weight: bold;
+  font-size: 1.125em;
+}
+
+.white{
+  background-color: white;
+}
